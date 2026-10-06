@@ -5,7 +5,7 @@ import { ArrowRight, BookOpen, Hammer, Rocket, Sparkles, Plus, Wifi, Target, Bri
 import { Button, Reveal } from '../components/ui'
 import Seo from '../lib/seo'
 import { CtaBand } from '../components/Sections'
-import { CourseShowcaseCard } from '../components/sections/CourseShowcaseCard'
+import { CourseShowcaseCard } from '../components/sections/Courseshowcasecard'
 import { courses } from '../data/site'
 
 function CoursesHero() {
