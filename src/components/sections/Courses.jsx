@@ -1,6 +1,6 @@
 import { Section } from '../ui'
 import { courses } from '../../data/site'
-import { CourseShowcaseCard } from './Courseshowcasecard'
+import { CourseShowcaseCard } from './CourseShowcaseCard'
 
 export function Courses() {
   return (
